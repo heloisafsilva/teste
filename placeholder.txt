@@ -1,0 +1,18 @@
+Este arquivo é um placeholder para a pasta de imagens.
+
+Para que a página funcione corretamente, você precisará adicionar as seguintes imagens:
+
+- bee.png: Imagem de uma abelha para o tema
+- honeycomb-pattern.png: Padrão de favo de mel para o fundo
+- placeholder1.jpg até placeholder6.jpg: Imagens para a galeria
+- student1.jpg até student4.jpg: Fotos dos alunos para a seção de mensagens
+- brownie.jpg, cupcake.jpg, brigadeiro.jpg: Imagens dos produtos à venda
+
+Você pode encontrar imagens gratuitas em sites como:
+- Unsplash (https://unsplash.com)
+- Pexels (https://pexels.com)
+- Pixabay (https://pixabay.com)
+
+Para ícones e ilustrações de abelhas:
+- Flaticon (https://www.flaticon.com)
+- Freepik (https://www.freepik.com)
